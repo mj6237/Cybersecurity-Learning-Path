@@ -46,7 +46,8 @@ My progress follows the **6-Month Cybersecurity Roadmap** (see the `.xltx` file 
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [Your Profile Link]
-* **Portfolio Site:** [Your Website Link]
+* **LinkedIn:** [inkedin.com/in/muhammad-jamshaid-a04054370/]
+* **Portfolio Site:** []
 
-*"The best way to predict the future is to create it."*
+
+
