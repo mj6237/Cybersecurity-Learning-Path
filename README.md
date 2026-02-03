@@ -1,5 +1,5 @@
-# 🛡️ 6-Month Cybersecurity Mastery Journey
-**Candidate: [Your Name]** *Tracking my transition into Cybersecurity through rigorous self-study, lab work, and documentation.*
+# 🛡️ Cybersecurity Mastery Journey
+**Candidate: [Muhammad Jamshaid]** *Tracking my transition into Cybersecurity through rigorous self-study, lab work, and documentation.*
 
 ---
 
@@ -24,11 +24,12 @@ My progress follows the **6-Month Cybersecurity Roadmap** (see the `.xltx` file 
 
 | Phase | Focus Area | Status |
 | :--- | :--- | :--- |
-| **Phase 1** | Networking Fundamentals | ✅ Completed |
+| **Phase 1** | Linux Fundamentals | ✅ Completed |
 | **Phase 2** | Linux Foundations & Administration | 🕒 In-Progress (Day 7/144 Complete) |
-| **Phase 3** | Security Fundamentals & GRC | 📅 Upcoming |
-| **Phase 4** | Threat Detection & SOC Ops | 📅 Upcoming |
-| **Phase 5** | Penetration Testing & Ethical Hacking | 📅 Upcoming |
+| **Phase 3** | Network Fundamentals | 📅 Upcoming |
+| **Phase 4** | Security Fundamentals & GRC | 📅 Upcoming |
+| **Phase 5** | Threat Detection & SOC Ops | 📅 Upcoming |
+| **Phase 6** | Penetration Testing & Ethical Hacking | 📅 Upcoming |
 
 ---
 
@@ -61,3 +62,4 @@ My progress follows the **6-Month Cybersecurity Roadmap** (see the `.xltx` file 
 * **Portfolio Site:** [Insert Link Here]
 
 *"The best way to predict the future is to create it."*
+
