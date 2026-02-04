@@ -25,7 +25,7 @@ My progress follows the **6-Month Cybersecurity Roadmap** (see the `.xltx` file 
 | Phase | Focus Area | Status |
 | :--- | :--- | :--- |
 | **Phase 1** | Linux Fundamentals | ✅ Completed |
-| **Phase 2** | Linux Foundations & Administration | 🕒 In-Progress (Day 7/144 Complete) |
+| **Phase 2** | Linux Foundations & Administration | 🕒 In-Progress (Day 9/144 Complete) |
 | **Phase 3** | Network Fundamentals | 📅 Upcoming |
 | **Phase 4** | Security Fundamentals & GRC | 📅 Upcoming |
 | **Phase 5** | Threat Detection & SOC Ops | 📅 Upcoming |
@@ -51,20 +51,20 @@ My progress follows the **6-Month Cybersecurity Roadmap** (see the `.xltx` file 
 
 ---
 
-🔬 Lab Highlights: Day 8
-Task: Automating Linux Tasks with Bash Scripting. Objective: Transition from manual CLI execution to automated scripts using variables, arrays, and conditional logic.
+##🔬 Lab Highlights: Day 8
+**Task:** Automating Linux Tasks with Bash Scripting. Objective: Transition from manual CLI execution to automated scripts using variables, arrays, and conditional logic.
 
-Key Achievements:
+**Key Achievements:**
 
-Modular Scripting: Developed a library of 10 Bash scripts (Basic to Logical Operators) to handle system data programmatically.
+**Modular Scripting:** Developed a library of 10 Bash scripts (Basic to Logical Operators) to handle system data programmatically.
 
-Data Structures: Implemented Arrays and Key-Value Pairs to manage complex datasets (e.g., user profiles and system info).
+**Data Structures:** Implemented Arrays and Key-Value Pairs to manage complex datasets (e.g., user profiles and system info).
 
-Decision Logic: Applied If-Else, Case statements, and Logical Operators (&&) to create interactive scripts that validate user input and system states.
+**Decision Logic:** Applied If-Else, Case statements, and Logical Operators (&&) to create interactive scripts that validate user input and system states.
 
-User Interaction: Integrated read -p to build dynamic tools that accept real-time input for system auditing tasks.
+**User Interaction:** Integrated read -p to build dynamic tools that accept real-time input for system auditing tasks.
 
-Scripts Created:
+**Scripts Created:**
 
 01_basic.sh to 04_Constant_Vari.sh: Foundational syntax and variable management.
 
@@ -88,5 +88,6 @@ Data Handling: Key-Value Pair association and User Input Sanitization.
 * **Portfolio Site:** [Insert Link Here]
 
 *"The best way to predict the future is to create it."*
+
 
 
