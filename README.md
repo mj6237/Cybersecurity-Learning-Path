@@ -6,7 +6,7 @@
 ## 📌 Project Overview
 This repository serves as a centralized hub for my 144-day intensive cybersecurity roadmap. It documents my technical growth from foundational networking to advanced penetration testing and security operations.
 
-## 🚀 Current Milestone: Linux Foundations II (Day 8)
+## 🚀 Current Milestone: Linux Foundations II (Day 9)
 I have successfully completed the foundational administration of services and am now moving into **User Management and Security Permissions**.
 
 ### 🛠️ Technical Skill Set (Updated)
@@ -51,9 +51,35 @@ My progress follows the **6-Month Cybersecurity Roadmap** (see the `.xltx` file 
 
 ---
 
-## 🔬 Upcoming Lab: Day 8
-**Focus:** User Management & The Principle of Least Privilege.
-* **Objective:** Creating restricted user accounts and mastering `chmod`/`chown` to protect sensitive system files.
+🔬 Lab Highlights: Day 8
+Task: Automating Linux Tasks with Bash Scripting. Objective: Transition from manual CLI execution to automated scripts using variables, arrays, and conditional logic.
+
+Key Achievements:
+
+Modular Scripting: Developed a library of 10 Bash scripts (Basic to Logical Operators) to handle system data programmatically.
+
+Data Structures: Implemented Arrays and Key-Value Pairs to manage complex datasets (e.g., user profiles and system info).
+
+Decision Logic: Applied If-Else, Case statements, and Logical Operators (&&) to create interactive scripts that validate user input and system states.
+
+User Interaction: Integrated read -p to build dynamic tools that accept real-time input for system auditing tasks.
+
+Scripts Created:
+
+01_basic.sh to 04_Constant_Vari.sh: Foundational syntax and variable management.
+
+05_Array.sh & 06_KeyValuePair.sh: Handling lists and structured data.
+
+08_If-Else.sh & 10_Logical_Operators.sh: Building security-relevant conditional logic.
+
+09_Case.sh: Creating menu-driven interfaces for system diagnostics.
+
+🛠️ Updated Technical Skill Set
+Scripting & Automation: Bash/Shell Scripting, Shebang (#!) configuration.
+
+Programming Logic: Variables, Constants, Arrays, Conditionals, and Logical Operations.
+
+Data Handling: Key-Value Pair association and User Input Sanitization.
 
 ---
 
@@ -62,4 +88,5 @@ My progress follows the **6-Month Cybersecurity Roadmap** (see the `.xltx` file 
 * **Portfolio Site:** [Insert Link Here]
 
 *"The best way to predict the future is to create it."*
+
 
