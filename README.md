@@ -51,7 +51,7 @@ My progress follows the **6-Month Cybersecurity Roadmap** (see the `.xltx` file 
 
 ---
 
-##🔬 Lab Highlights: Day 8
+## 🔬 Lab Highlights: Day 8
 **Task:** Automating Linux Tasks with Bash Scripting. Objective: Transition from manual CLI execution to automated scripts using variables, arrays, and conditional logic.
 
 **Key Achievements:**
@@ -88,6 +88,7 @@ Data Handling: Key-Value Pair association and User Input Sanitization.
 * **Portfolio Site:** [Insert Link Here]
 
 *"The best way to predict the future is to create it."*
+
 
 
 
