@@ -25,7 +25,7 @@ My progress follows the **6-Month Cybersecurity Roadmap** (see the `.xltx` file 
 | Phase | Focus Area | Status |
 | :--- | :--- | :--- |
 | **Phase 1** | Linux Fundamentals | ✅ Completed |
-| **Phase 2** | Linux Foundations & Administration | 🕒 In-Progress (Day 9/144 Complete) |
+| **Phase 2** | Linux Foundations & Administration | 🕒 In-Progress (Day 10/144 Complete) |
 | **Phase 3** | Network Fundamentals | 📅 Upcoming |
 | **Phase 4** | Security Fundamentals & GRC | 📅 Upcoming |
 | **Phase 5** | Threat Detection & SOC Ops | 📅 Upcoming |
@@ -80,7 +80,16 @@ Scripting & Automation: Bash/Shell Scripting, Shebang (#!) configuration.
 Programming Logic: Variables, Constants, Arrays, Conditionals, and Logical Operations.
 
 Data Handling: Key-Value Pair association and User Input Sanitization.
+## 🔬 Lab Highlights: Day 9
+**Task:** Advanced Text Parsing & Task Automation.
+**Objective:** Mastering data extraction from system logs and scheduling security audits.
 
+**Key Achievements:**
+* **Text Mining with Awk:** Created scripts to isolate specific columns (IPs, Timestamps) from complex log files.
+* **Stream Editing with Sed:** Automated the "find-and-replace" process for sanitizing sensitive data in report outputs.
+* **Automated Auditing (Cron):** Configured system-level `crontabs` to execute the **Log Hunter** script every midnight, ensuring persistent monitoring of failed login attempts.
+
+**Tools & Commands Mastered:** `awk`, `sed`, `crontab`, `grep`, `piping (|)`.
 ---
 
 ## 📫 Connect with Me
@@ -88,6 +97,7 @@ Data Handling: Key-Value Pair association and User Input Sanitization.
 * **Portfolio Site:** [Insert Link Here]
 
 *"The best way to predict the future is to create it."*
+
 
 
 
