@@ -1,0 +1,7 @@
+id name class 
+1 ali 8
+2 hassan 9
+3 junaid 7
+4 bilal 9
+5 haider 4
+6 hamza 7
